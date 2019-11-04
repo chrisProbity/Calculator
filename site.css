@@ -1,0 +1,36 @@
+input{
+	width: 100px;
+	height: 83px;
+	font-size: 75px;
+	border-radius: 10px;
+	margin: 10px;
+	background-color: black;
+	padding-right: 0px;
+	border-style: none;
+	color: #fff;
+}
+#dis{
+	width: 471px;
+	height: 100px;
+	text-align: right;
+	background-color: #1f80c9;
+}
+#myForm{
+	/*margin-left: 25%;
+	margin-top: 20px;*/
+}
+h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 150px;
+	font-size: 75px; 
+}
+#first{
+	width: 500px;
+	height: 540px;
+	border: 10px solid #cc5c11;
+	margin-left: 25%;
+	padding-right: 0px;
+	border-radius: 10px;
+	background: gray;
+}
